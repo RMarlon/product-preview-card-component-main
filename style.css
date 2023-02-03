@@ -40,7 +40,7 @@ body {
     width: 350px;
     height: auto;
     border-radius: 10px 0 0 10px;
-    background: url("images/image-product-desktop.jpg");
+    background: url("./images/image-product-desktop.jpg");
     background-size: 350px;
 
 }
